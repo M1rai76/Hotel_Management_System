@@ -47,13 +47,13 @@ To run and view the project, you need:
 Here are some previews of the HMS frontend interface:
 
 ### Home Page
-![Home Page](homepage_image.png)
+![Home Page](booking_image.png)
 
 ### Booking Page
-![Booking Page](booking_image.png)
+![Booking Page](homepage_image.png)
 
 ### Dining Reservations
-![Dining Reservations](dining_image.png)
+![Dining Reservations](rename_image.png)
 
 ## 🚀 Getting Started
 
